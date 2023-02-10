@@ -46,6 +46,7 @@ const (
 	StorageClassesProxy  ProxyServiceKind = "StorageClasses"
 	IngressClassesProxy  ProxyServiceKind = "IngressClasses"
 	PriorityClassesProxy ProxyServiceKind = "PriorityClasses"
+	RuntimeClassesProxy  ProxyServiceKind = "RuntimeClasses"
 
 	ListOperation   ProxyOperation = "List"
 	UpdateOperation ProxyOperation = "Update"
